@@ -1,0 +1,2 @@
+class NoUpdate(Exception):
+    pass
